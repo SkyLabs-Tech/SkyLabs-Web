@@ -1,0 +1,7 @@
+name: organizations/663609663800/policies/iam.allowedPolicyMemberDomains
+spec:
+  rules:
+    - values:
+        allowedValues:
+          - C0272qcj2
+          - allUsers
