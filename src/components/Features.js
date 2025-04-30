@@ -6,7 +6,7 @@ import { FaLinkedin } from 'react-icons/fa'; // Optional: Import LinkedIn icon i
 import { LoadingContext } from '../contexts/LoadingContext'; // Ensure LoadingContext is correctly imported
 
 // Define the testing app URL here for easy modification
-const TESTING_APP_URL = 'https://www.canva.com/design/DAGafXVH-k4/BpbU-j7z05LpATfMqNxepg/view?utm_content=DAGafXVH-k4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd6210ddf59'; // Replace with your actual testing app URL
+const TESTING_APP_URL = 'https://flight-ops-assist-125699337180.us-central1.run.app'; // Replace with your actual testing app URL
 
 /* Styled Components */
 
